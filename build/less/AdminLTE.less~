@@ -63,7 +63,3 @@
 //-------------
 @import "miscellaneous.less";
 @import "print.less";
-
-// ADDITIONS
-//-------------
-@import "contactinfo.less";

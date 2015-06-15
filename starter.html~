@@ -100,7 +100,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
         </nav>
       </header>
       <!-- Left side column. contains the logo and sidebar -->
-      <aside class="main-sidebar sidebar-collapse">
+      <aside class="main-sidebar">
 
         <!-- sidebar: style can be found in sidebar.less -->
         <section class="sidebar">
@@ -118,7 +118,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
           <!-- /.search form -->
 
           <!-- Sidebar Menu -->
-          <ul class="sidebar-menu">
+          <ul class="sidebar-menu navbar-collapse">
             <li class="header">GEMEENTE</li>
             <!-- Optionally, you can add icons to the links -->
             <li class="active"><a href="#"><i class='fa fa-link'></i> <span>Link</span></a></li>

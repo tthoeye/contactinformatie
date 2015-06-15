@@ -53,27 +53,7 @@
   background-color: #3c8dbc;
 }
 .skin-blue .content-header {
-  background-image: url('../../../images/herocrop.jpg');
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center center;
-  color: white;
-  min-height: 400px;
-  padding: 50px 50px 0 50px;
-}
-.skin-blue .content-header > h1 {
-  margin: 0;
-  font-size: 50px;
-  display: block;
-  position: absolute;
-  bottom: 40px;
-}
-.skin-blue .content-header > h1 > small {
-  color: white;
-  font-size: 20px;
-  display: block;
-  padding-left: 4px;
-  font-weight: 300;
+  background: transparent;
 }
 .skin-blue .wrapper,
 .skin-blue .main-sidebar,

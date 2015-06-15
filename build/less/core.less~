@@ -114,6 +114,7 @@ body {
 /* Content */
 .content {
   min-height: 250px;
+  padding: 50px;
   .container-fixed(@grid-gutter-width);
 }
 

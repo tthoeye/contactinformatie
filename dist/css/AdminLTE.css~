@@ -132,6 +132,7 @@ body {
 /* Content */
 .content {
   min-height: 250px;
+  padding: 15px;
   margin-right: auto;
   margin-left: auto;
   padding-left: 15px;
@@ -4110,6 +4111,7 @@ table.text-center th {
     white-space: normal!important;
   }
 }
-.marge {
-  padding: 50px;
+
+.content-header {
+  background-color: red;
 }
