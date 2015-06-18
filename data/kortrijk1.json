@@ -1,0 +1,43 @@
+[
+{
+  "?product": "http://ewi.mmlab.be/cd/id/product/KORUNIPRO01",
+  "?title": "\"EID - elektronische identiteitskaart\"",
+  "?type": "http://productencatalogus.vlaanderen.be/fiche/148",
+  "?org": "http://ewi.mmlab.be/cd/id/organisatie/KORUNIORG01",
+  "?name": "\"Stad Kortrijk\""
+},
+{
+  "?product": "http://ewi.mmlab.be/cd/id/product/KORUNIPRO03",
+  "?title": "\"Vergunning tijdelijk terras horeca\"",
+  "?type": "http://productencatalogus.vlaanderen.be/fiche/768",
+  "?org": "http://ewi.mmlab.be/cd/id/organisatie/KORUNIORG01",
+  "?name": "\"Stad Kortrijk\""
+},
+{
+  "?product": "http://ewi.mmlab.be/cd/id/product/KORUNIPRO04",
+  "?title": "\"Stedenbouwkundig attest\"",
+  "?type": "http://productencatalogus.vlaanderen.be/fiche/579",
+  "?org": "http://ewi.mmlab.be/cd/id/organisatie/KORUNIORG01",
+  "?name": "\"Stad Kortrijk\""
+},
+{
+  "?product": "http://ewi.mmlab.be/cd/id/product/KORUNIPRO05",
+  "?title": "\"Inrichten van een speelstraat\"",
+  "?type": "http://productencatalogus.vlaanderen.be/fiche/947",
+  "?org": "http://ewi.mmlab.be/cd/id/organisatie/KORUNIORG01",
+  "?name": "\"Stad Kortrijk\""
+},
+{
+  "?product": "http://ewi.mmlab.be/cd/id/product/KORUNIPRO06",
+  "?title": "\"Sporkamp\"",
+  "?type": "http://productencatalogus.vlaanderen.be/fiche/945",
+  "?org": "http://ewi.mmlab.be/cd/id/organisatie/KORUNIORG01",
+  "?name": "\"Stad Kortrijk\""
+},
+{
+  "?product": "http://ewi.mmlab.be/cd/id/product/KORUNIPRO07",
+  "?title": "\"Instapstage\"",
+  "?org": "http://ewi.mmlab.be/cd/id/organisatie/KORUNIORG01",
+  "?name": "\"Stad Kortrijk\""
+}
+]

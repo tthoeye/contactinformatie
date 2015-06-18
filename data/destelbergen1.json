@@ -1,0 +1,30 @@
+[
+{
+  "?product": "http://ewi.mmlab.be/cd/id/product/DESUNIPRO01",
+  "?title": "\"EID - elektronische identiteitskaart\"",
+  "?type": "http://productencatalogus.vlaanderen.be/fiche/148",
+  "?org": "http://ewi.mmlab.be/cd/id/organisatie/DESUNIORG01",
+  "?name": "\"Gemeente Destelbergen\""
+},
+{
+  "?product": "http://ewi.mmlab.be/cd/id/product/DESUNIPRO02",
+  "?title": "\"Speelstraat\"",
+  "?type": "http://productencatalogus.vlaanderen.be/fiche/947",
+  "?org": "http://ewi.mmlab.be/cd/id/organisatie/DESUNIORG01",
+  "?name": "\"Gemeente Destelbergen\""
+},
+{
+  "?product": "http://ewi.mmlab.be/cd/id/product/DESUNIPRO03",
+  "?title": "\"Sportkamp\"",
+  "?type": "http://productencatalogus.vlaanderen.be/fiche/945",
+  "?org": "http://ewi.mmlab.be/cd/id/organisatie/DESUNIORG01",
+  "?name": "\"Gemeente Destelbergen\""
+},
+{
+  "?product": "http://ewi.mmlab.be/cd/id/product/DESUNIPRO04",
+  "?title": "\"Stedenbouwkundig attest\"",
+  "?type": "http://productencatalogus.vlaanderen.be/fiche/579",
+  "?org": "http://ewi.mmlab.be/cd/id/organisatie/DESUNIORG01",
+  "?name": "\"Gemeente Destelbergen\""
+}
+]
