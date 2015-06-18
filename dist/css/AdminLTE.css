@@ -4111,5 +4111,11 @@ table.text-center th {
   }
 }
 .marge {
-  padding: 50px;
+  padding: 30px;
+}
+.subtitle {
+  color: #0073b7;
+  font-weight: bold;
+  font-size: 14px;
+  display: block;
 }

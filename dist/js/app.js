@@ -66,7 +66,7 @@ $.AdminLTE.options = {
   //before AdminLTE's app.js
   enableFastclick: true,
   //Control Sidebar Options
-  enableControlSidebar: true,
+  enableControlSidebar: false,
   controlSidebarOptions: {
     //Which button should trigger the open/close event
     toggleBtnSelector: "[data-toggle='control-sidebar']",
